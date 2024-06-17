@@ -6,6 +6,11 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: "batman";
+  src: url("./assets/batmfa__.ttf");
+}
+
 :root {
   --font-sora: "Sora", sans-serif;
   --font-code: "Source Code Pro", monospace;
