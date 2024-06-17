@@ -45,12 +45,12 @@ const Header = () => {
             openNavigation ? "flex" : "hidden"
           } fixed top-[5rem] left-0 right-0 bottom-0 bg-n-8 lg:static lg:flex lg:mx-auto lg:bg-transparent`}
         >
-          <a
+          {/* <a
           href="#signup"
           className="button hidden mr-8 text-xl text-white transition-colors hover:text-n-1 lg:block"
         >
           CA: 2hhb8CFXwvaan8maKRmd9tJ4UmTsN8F3GZ5W3E9epump
-        </a>
+        </a> */}
           {/* <div className="relative z-2 flex flex-col items-center justify-center m-auto lg:flex-row">
             {navigation.map((item) => (
               <a

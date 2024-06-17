@@ -37,32 +37,32 @@ const Hero = () => {
           </h1>
           <div className="flex mt-10 w-full items-center justify-center gap-10">
 
-            <a href="https://x.com/TheGothamCTO" target="_blank">
-            <Button className="flex w-42" white>
-              <div className="w-full h-full flex justify-center items-center">
+            {/* <a href="https://x.com/TheGothamCTO" target="_blank"> */}
+            {/* <Button className="flex w-42" white> */}
+              {/* <div className="w-full h-full flex justify-center items-center"> */}
                 {/* <img src={twitter} className="mr-2" /> */}
-                <p>Follow on X</p>
-              </div>
-            </Button>
-            </a>
+                {/* <p>Follow on X</p> */}
+              {/* </div> */}
+            {/* </Button> */}
+            {/* </a> */}
 
-            <a href="https://dexscreener.com/solana/6u13sfywqqzdqsvxnbrpygrvdxeryhczjnsfrhi1gaqm" target="_blank">
-            <Button className="flex w-42"  white>
-              <div className="w-full h-full flex justify-center items-center">
+            {/* <a href="https://dexscreener.com/solana/6u13sfywqqzdqsvxnbrpygrvdxeryhczjnsfrhi1gaqm" target="_blank"> */}
+            {/* <Button className="flex w-42"  white> */}
+              {/* <div className="w-full h-full flex justify-center items-center"> */}
                 {/* <img src={twitter} className="mr-2" /> */}
-                <p>Dexscreener</p>
-              </div>
-            </Button>
-            </a>
+                {/* <p>Dexscreener</p> */}
+              {/* </div> */}
+            {/* </Button> */}
+            {/* </a> */}
 
-            <a href="https://t.me/gofgothamtelegram" target="_blank">
-            <Button className="flex w-42" white>
-              <div className="w-full h-full flex justify-center items-center">
+            {/* <a href="https://t.me/gofgothamtelegram" target="_blank"> */}
+            {/* <Button className="flex w-42" href="/pricing" white> */}
+              {/* <div className="w-full h-full flex justify-center items-center"> */}
                 {/* <img src={twitter} className="mr-2" /> */}
-                <p>Join Telegram</p>
-              </div>
-            </Button>
-            </a>
+                {/* <p>Join Telegram</p> */}
+              {/* </div> */}
+            {/* </Button> */}
+            {/* </a> */}
           </div>
         </div>
         <div className="relative max-w-[23rem] mx-auto md:max-w-5xl xl:mb-24">
